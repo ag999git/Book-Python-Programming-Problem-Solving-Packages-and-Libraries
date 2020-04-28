@@ -9,7 +9,7 @@ The repository has the following folders:-
 
 
 
-These folders contain help guides for each of the 20 chapters in the book in html, pptx (converted to pdf) format. However the formats may not render accurately on GitHub. So you need to either download or clone the repository to your local machine and then view them with appropriate viewer application. For example you may download the pptx files and then view them with help of Microsoft Power Point.
+These folders contain help guides for each of the 20 chapters in the book in html, pptx (converted to pdf) format. However the formats may not render accurately on GitHub. So you need to either download or clone the repository to your local machine and then view them with appropriate viewer application. For example you may download the pptx files in pdf and then view them with a pdf viewer. Similarly you can view the html files in your favourite web browser.
 The book is available in print/ kindle [here]
 Given below are the topics contained in the book
 ### Table of Contents
