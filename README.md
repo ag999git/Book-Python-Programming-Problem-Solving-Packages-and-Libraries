@@ -4,12 +4,13 @@ The book has 20 chapters in the print/ Kindle format and another 5 chapters whic
 
 The repository has the following folders:-
 
- 1. book-chapters-html
- 2. PPT-notes-as-pdf
+ 1. Online-chapters-21-25
+ 2. book-chapters-html
+ 3. PPT-notes-as-pdf
 
+The first folder contains the last 5 chapters of my book in pdf format. You can download these chapters. The chapters are complete in all respects.
 
-
-These folders contain help guides for each of the 20 chapters in the book in html, pptx (converted to pdf) format. However the formats may not render accurately on GitHub. So you need to either download or clone the repository to your local machine and then view them with appropriate viewer application. For example you may download the pptx files in pdf and then view them with a pdf viewer. Similarly you can view the html files in your favourite web browser.
+The other 2 folders (at serial number 2 and 3) contain help guides for each of the 20 chapters in the book in html, pptx (converted to pdf) format. However the formats may not render accurately on GitHub. So you need to either download or clone the repository to your local machine and then view them with appropriate viewer application. For example you may download the pptx files in pdf and then view them with a pdf viewer. Similarly you can view the html files in your favourite web browser.
 The book is available in print/ kindle [here](https://www.amazon.in/Books-Gupta-Biswas/s?rh=n%3A976389031%2Cp_27%3AGupta+Biswas "Link to Book on Amazon")
 
 Given below are the topics contained in the book
