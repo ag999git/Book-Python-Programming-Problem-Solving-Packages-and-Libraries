@@ -1,4 +1,32 @@
-This folder contains power point presentations of the first 20 chapters of my book available [here](https://www.amazon.in/Books-Gupta-Biswas/s?rh=n%3A976389031%2Cp_27%3AGupta+Biswas "Link to Book on Amazon")
+This folder contains power point presentations of the first 20 chapters of my book available [here](https://www.amazon.in/Books-Gupta-Biswas/s?rh=n%3A976389031%2Cp_27%3AGupta+Biswas "Link to Book on Amazon") 
+
+You can clone this repository to download and view these power point presentations (In pdf format). Alternatively you can also view (and download) these pdf files on http://nbviewer.jupyter.org/ . The links for viewing these pdf files on nbviewer are given below:-
 
 
 
+- [Chapter 1 ](https://nbviewer.jupyter.org/github/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/PPT-notes-as-pdf/Ch-1.pdf)
+- [Chapter 2 ](https://nbviewer.jupyter.org/github/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/PPT-notes-as-pdf/Ch-2.pdf)
+- [Chapter 3 ](https://nbviewer.jupyter.org/github/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/PPT-notes-as-pdf/Ch-3.pdf)
+- [Chapter 4 ](https://nbviewer.jupyter.org/github/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/PPT-notes-as-pdf/Ch4-PPT.pdf)
+- [Chapter 5 ](https://nbviewer.jupyter.org/github/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/PPT-notes-as-pdf/Ch-5.pdf)
+- [Chapter 6 ](https://nbviewer.jupyter.org/github/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/PPT-notes-as-pdf/Ch-6.pdf)
+- [Chapter 1 ](https://nbviewer.jupyter.org/github/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/PPT-notes-as-pdf/Ch-1.pdf)
+- [Chapter 1 ](https://nbviewer.jupyter.org/github/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/PPT-notes-as-pdf/Ch-1.pdf)
+- [Chapter 1 ](https://nbviewer.jupyter.org/github/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/PPT-notes-as-pdf/Ch-1.pdf)
+- [Chapter 1 ](https://nbviewer.jupyter.org/github/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/PPT-notes-as-pdf/Ch-1.pdf)
+- [Chapter 1 ](https://nbviewer.jupyter.org/github/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/PPT-notes-as-pdf/Ch-1.pdf)
+- [Chapter 1 ](https://nbviewer.jupyter.org/github/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/PPT-notes-as-pdf/Ch-1.pdf)
+- [Chapter 1 ](https://nbviewer.jupyter.org/github/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/PPT-notes-as-pdf/Ch-1.pdf)
+- [Chapter 1 ](https://nbviewer.jupyter.org/github/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/PPT-notes-as-pdf/Ch-1.pdf)
+- [Chapter 1 ](https://nbviewer.jupyter.org/github/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/PPT-notes-as-pdf/Ch-1.pdf)
+- [Chapter 1 ](https://nbviewer.jupyter.org/github/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/PPT-notes-as-pdf/Ch-1.pdf)
+- [Chapter 1 ](https://nbviewer.jupyter.org/github/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/PPT-notes-as-pdf/Ch-1.pdf)
+- [Chapter 1 ](https://nbviewer.jupyter.org/github/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/PPT-notes-as-pdf/Ch-1.pdf)
+- [Chapter 1 ](https://nbviewer.jupyter.org/github/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/PPT-notes-as-pdf/Ch-1.pdf)
+- [Chapter 1 ](https://nbviewer.jupyter.org/github/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/PPT-notes-as-pdf/Ch-1.pdf)
+- [Chapter 1 ](https://nbviewer.jupyter.org/github/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/PPT-notes-as-pdf/Ch-1.pdf)
+- [Chapter 1 ](https://nbviewer.jupyter.org/github/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/PPT-notes-as-pdf/Ch-1.pdf)
+- [Chapter 1 ](https://nbviewer.jupyter.org/github/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/PPT-notes-as-pdf/Ch-1.pdf)
+- [Chapter 1 ](https://nbviewer.jupyter.org/github/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/PPT-notes-as-pdf/Ch-1.pdf)
+- [Chapter 1 ](https://nbviewer.jupyter.org/github/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/PPT-notes-as-pdf/Ch-1.pdf)
+- [Chapter 1 ](https://nbviewer.jupyter.org/github/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/PPT-notes-as-pdf/Ch-1.pdf)
