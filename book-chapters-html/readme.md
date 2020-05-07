@@ -1,4 +1,4 @@
-This folder contains help material for the first 20 chapters of my book. This help materila was created on Jupyter Notebook and downloaded as html files. 
+This folder contains help material for the first 20 chapters of my book. This help material was created on Jupyter Notebook and downloaded as html files. 
 You can directly access the help material by clicking the links for the chapters given below:-
 - [Chapter 1](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/1_1_Python_basics_1.html)
 - [Chapter 2](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/2_1_Python_Bascis_2.html)
