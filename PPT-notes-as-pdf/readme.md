@@ -17,7 +17,14 @@ You can clone this repository to download and view these power point presentatio
 - [Chapter 11 ](https://nbviewer.jupyter.org/github/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/PPT-notes-as-pdf/Ch-11-Regular_Expressions.pdf)
 - [Chapter 12 ](https://nbviewer.jupyter.org/github/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/PPT-notes-as-pdf/Ch-12-Some_Additional_Advanced_Topics.pdf)
 - [Chapter 13 ](https://nbviewer.jupyter.org/github/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/PPT-notes-as-pdf/Ch-13-Object-Oriented-Programming.pdf)
+
+
+- [Chapter 14 ](https://nbviewer.jupyter.org/github/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/PPT-notes-as-pdf/Ch-14-InheritanceNamespace.pdf)
+
 - [Chapter 14 ](https://nbviewer.jupyter.org/github/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/PPT-notes-as-pdf/Ch-14-Inheritance_and_Namespace.pdf)
+
+
+
 - [Chapter 15 ](https://nbviewer.jupyter.org/github/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/PPT-notes-as-pdf/Ch-15-FileOperationsInPython.pdf)
 - [Chapter 16 ](https://nbviewer.jupyter.org/github/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/PPT-notes-as-pdf/Ch-16-Python-Exceptions.pdf)
 - [Chapter 17 ](https://nbviewer.jupyter.org/github/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/PPT-notes-as-pdf/Ch-17LinearListManipulationStacksQueues.pdf)
