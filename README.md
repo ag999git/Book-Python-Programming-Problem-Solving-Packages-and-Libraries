@@ -1,6 +1,6 @@
 ## Introduction
 This repository contains various types of files which will help you in your Python course if you are following the book **Python Programming: Problem Solving, Packages and Libraries** 
-The book has 20 chapters in the print/ Kindle format and another 5 chapters which can be downloaded from the McGraw Hill web site.
+The book has 20 chapters in the print/ Kindle format and another 5 chapters which can be downloaded from the McGraw Hill web site. These chapters are also available on GitGub [here](https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/tree/master/Online-chapters-21-to-25)
 
 The repository has the following folders:-
 
@@ -11,7 +11,9 @@ The repository has the following folders:-
 The first folder contains the last 5 chapters of my book in pdf format. You can download these chapters. The chapters are complete in all respects.
 
 The other 2 folders (at serial number 2 and 3) contain help guides for each of the 20 chapters in the book in html, pptx (converted to pdf) format. However the formats may not render accurately on GitHub. So you need to either download or clone the repository to your local machine and then view them with appropriate viewer application. For example you may download the pptx files in pdf and then view them with a pdf viewer. Similarly you can view the html files in your favourite web browser.
-The book is available in print/ kindle [here](https://www.amazon.in/Books-Gupta-Biswas/s?rh=n%3A976389031%2Cp_27%3AGupta+Biswas "Link to Book on Amazon")
+The book is available in print/ kindle [here](https://www.amazon.in/Books-Gupta-Biswas/s?rh=n%3A976389031%2Cp_27%3AGupta+Biswas "Link to Book on Amazon").
+
+I can be contacted on 999.anuraggupta@gmail.com
 
 Given below are the topics contained in the book
 ### Table of Contents
