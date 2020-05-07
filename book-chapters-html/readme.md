@@ -1,0 +1,31 @@
+This folder contains help material for the first 20 chapters of my book. This help materila was created on Jupyter Notebook and downloaded as html files. 
+You can directly access the help material by clicking the links for the chapters given below:-
+- [Chapter 1](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/1_1_Python_basics_1.html)
+- [Chapter 2](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/2_1_Python_Bascis_2.html)
+- [Chapter 3](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/3_1_Operators_In_Python.html)
+- [Chapter 4](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/4_1_Functions_Part_1.html)
+- [Chapter 5](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/5_1_Functions_More_Advanced_Concepts.html)
+- [Chapter 6](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/6_1_Flow_control.html)
+- [Chapter 7](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/7_1_Strings.html)
+- [Chapter 8](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/8_1_lists.html)
+- [Chapter 9](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/9_1_dictionaries.html)
+- [Chapter 10](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/10_1_Tuples.html)
+- [Chapter 11](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/11_1_Regular_expressions_RE.html)
+- [Chapter 12](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/12_2_Some_Additional_Advanced_Topics.html)
+- [Chapter 13](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/13_1_Object_Oriented_Programming_with_Python.html)
+- [Chapter 14](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/14_1_Inheritance_and_concept_of_namespace.html)
+- [Chapter 15](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/5_1_file-operations.html)
+- [Chapter 16](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/16_2_Exceptions.html)
+- [Chapter 17](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/17_2_Linear_List_Manipulation_Stacks_and_Queues.html)
+- [Chapter 18](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/18_2_numPy_SciPy.html)
+- [Chapter 19](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/19_1_Sympy.html)
+- [Chapter 20-Part 1](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/20_1_Pandas_Part-1.html)
+- [Chapter 20](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/20_Part2_Pandas_Drugs_review_notebook.html)
+
+
+
+
+
+- [Chapter 11](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/11_1_Regular_expressions_RE.html)
+- [Chapter 11](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/11_1_Regular_expressions_RE.html)
+- [Chapter 11](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/11_1_Regular_expressions_RE.html)
