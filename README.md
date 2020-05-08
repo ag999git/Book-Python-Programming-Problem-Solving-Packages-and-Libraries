@@ -505,8 +505,11 @@ unsorted)
 20.3.1 Using Pandas to Open `csv` Files   
 20.3.2 Using Pandas to Read `html` Files   
 20.3.3 Reading/Writing to `JSON` files 
+
 Appendix 1 Downloading and Installing Python   
+
 Appendix 2 Command Line, IDLE, Python Docs and Python Manual 
+
 Appendix 3 Anaconda and Jupyter Notebook Basics 
 
 
