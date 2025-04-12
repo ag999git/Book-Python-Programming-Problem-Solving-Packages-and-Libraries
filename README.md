@@ -17,7 +17,8 @@ I can be contacted on 999.anuraggupta@gmail.com
 
 Given below are the topics contained in the book
 ### Table of Contents
-**Chapter 1 Python Basics—I**  
+**Chapter 1 Python Basics—I**  (Jupyter Notebook for Chapter 1 available here [Chapter 1](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/1_1_Python_basics_1.html))
+
 1.1 Introduction  
 1.2 Basic Concepts  
 1.2.1 History and Introduction 
@@ -53,7 +54,8 @@ Given below are the topics contained in the book
 1.6.6 Shared Reference 
 1.6.7 Variable vs. Identifier  
 
-**Chapter 2 Python Basics—II**  
+**Chapter 2 Python Basics—II**  (Jupyter Notebook for Chapter 2 available here [Chapter 2](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/2_1_Python_Bascis_2.html))
+
 2.1 Introduction  
 2.2 Data Types in Python   
 2.2.1 Numbers (Integers, Floating Points, Complex and Bool)   
@@ -82,7 +84,9 @@ String
 2.7.9 Slicing of Strings   
 2.8 Binary Literals in Python   
 2.9 The Zen of Python on Jupyter  
-**Chapter 3 Operators in Python**  
+
+**Chapter 3 Operators in Python**  (Jupyter Notebook for Chapter 3 available here [Chapter 3](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/3_1_Operators_In_Python.html))
+
 3.1 Introduction  
 3.2 Assignment (and reassignment)  
 3.3 Overview of Operators  
@@ -94,8 +98,10 @@ String
 3.3.6 Boolean Operators versus Bit-wise Operators   
 3.3.7 Special Operators   
 3.3.8 Identity Operator   
-3.3.9 Membership Operator   
-**Chapter 4 Functions—Part I**   
+3.3.9 Membership Operator 
+
+**Chapter 4 Functions—Part I**   (Jupyter Notebook for Chapter 4 available here [Chapter 4](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/4_1_Functions_Part_1.html))
+
 4.1 Introduction   
 4.2 Need for Functions  
 4.3 Basics of Functions   
@@ -106,8 +112,10 @@ String
 4.3.5 Some Important Functions in Modules in Python   
 4.4 Defining your own functions and function syntax   
 4.4.1 Syntax for Writing/Defining Your Function   
-4.3.7 Scope namespace and Lifetime of Variables   
-**Chapter 5 Functions—Part II**   
+4.3.7 Scope namespace and Lifetime of Variables  
+
+**Chapter 5 Functions—Part II**   (Jupyter Notebook for Chapter 5 available here [Chapter 5](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/5_1_Functions_More_Advanced_Concepts.html))
+
 5.1 Introduction 
 5.2 Passing Variables in a Function Call  
 5.3 Function Arguments  
@@ -136,7 +144,8 @@ String
 5.6.5 filter() Function   
 5.6.6 Generator Functions  
 
-**Chapter 6 Flow Control**  
+**Chapter 6 Flow Control**  (Jupyter Notebook for Chapter 6 available here [Chapter 6](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/6_1_Flow_control.html))
+
 6.1 Introduction 
 6.2 Using ‘if’  
 6.2.1 If…elif…else statement  
@@ -161,7 +170,9 @@ String
 6.5.3 Using “in” Operator versus Using range() Function in “for” Loop 
 6.6 Common Errors in Flow Control 
 6.7 Iterable 
- **Chapter 7 Strings**  
+
+ **Chapter 7 Strings**  (Jupyter Notebook for Chapter 7 available here [Chapter 7](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/7_1_Strings.html))
+ 
 7.1 Introduction 
 7.2 Creating, Initializing and Accessing Elements of a String 
 7.2.1 Creating Strings   
@@ -183,8 +194,10 @@ String
 7.6.1 str.capitalize() where str is a String  
 7.6.2 str.count(sub[, start[, stop]]) 
 7.6.3 Checking for a Palindrome   
-7.7 A Short Note on String Module   
-**Chapter 8 Lists**   
+7.7 A Short Note on String Module
+
+**Chapter 8 Lists**   (Jupyter Notebook for Chapter 8 available here [Chapter 8](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/8_1_lists.html))
+
 8.1 Introduction   
 8.2 Some Basic Concepts of Lists   
 8.2.1 Concept of Containers(or collections), Sequence and Mapping  
@@ -214,7 +227,9 @@ String
 8.5.2 Sample Script (Get Items in Diagonals of a Matrix)   
 8.5.3 Sample Script (Add all Numbers which are even in a Matrix)   
 8.5.4 Sample Script (Upper/Lower Triangle Matrix)  
-**Chapter 9 Dictionaries**   
+
+**Chapter 9 Dictionaries**   (Jupyter Notebook for Chapter 9 available here [Chapter 9](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/9_1_dictionaries.html))
+
 9.1 Introduction   
 9.2 Basics of Dictionary—1   
 9.2.1 Properties of a Dictionary  
@@ -241,7 +256,9 @@ String
 9.5.6 d.items() 
 9.5.7 d1.update(d2) (where d1 and d2 are dictionaries) 
 9.6 Dictionary View Objects 
-**Chapter 10 Tuples**   
+
+**Chapter 10 Tuples**   (Jupyter Notebook for Chapter 10 available here [Chapter 10](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/10_1_Tuples.html))
+
 10.1 Introduction 
 10.2 Some Basic Concepts Regarding Tuples 
 10.2.1 Immutability Concept 
@@ -256,7 +273,9 @@ String
 10.3.2 Some Common Tuple Functions 
 10.3.3 Swapping Tuples 
 10.3.4 Unpacking Tuples 
-**Chapter 11 Regular Expression**   
+
+**Chapter 11 Regular Expression**   (Jupyter Notebook for Chapter 11 available here [Chapter 11](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/11_1_Regular_expressions_RE.html))
+
 11.1 Introduction 
 11.2 Basic Concepts of Regular Expressions  
 11.2.1 Raw Strings in Python 
@@ -280,7 +299,9 @@ String
 11.7.3 The span() Method of Match Object   
 11.7.4 Greedy versus Non-greedy Matching 
 11.8 Some Common Scripts using RE 
-**Chapter 12 Some Additional Advanced Topics**   
+
+**Chapter 12 Some Additional Advanced Topics**   (Jupyter Notebook for Chapter 12 available here [Chapter 12](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/12_2_Some_Additional_Advanced_Topics.html))
+
 12.1 Introduction 2
 12.2 Concepts of Shared Reference and Docstrings 2
 12.2.1 Shared Reference and In-place Change (Relating to Function Calls) 2
@@ -315,7 +336,9 @@ String
 12.6.3 Using pycodestyle   
 12.6.4 Using pylint   
 12.6.5 Pylint and Static Code Analysis in Spyder   
-**Chapter 13 Object-Oriented Programming with Python** 
+
+**Chapter 13 Object-Oriented Programming with Python** (Jupyter Notebook for Chapter 13 available here [Chapter 13](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/13_1_Object_Oriented_Programming_with_Python.html))
+
 13.1 Introduction   
 13.2 Basic Concept of Object-Oriented Programming  
 13.2.1 Concept of Class, Object and Abstraction   
@@ -344,7 +367,9 @@ String
 13.4.6`__del__() `  
 13.4.7 `some_object.__str__()`   
 13.5 Common Mistakes while Creating Objects  
-**Chapter 14 Inheritance and Namespace** 
+
+**Chapter 14 Inheritance and Namespace** (Jupyter Notebook for Chapter 14 available here [Chapter 14](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/14_1_Inheritance_and_concept_of_namespace.html))
+
 14.1 Introduction 
 14.2 Basics of Inheritance in Python   
 14.2.1 Introduction to Subclassing (Inheritance)   
@@ -364,7 +389,9 @@ String
 14.5 Concept of Namespace 
 14.5.1 `locals()` and `globals()`   
 14.5.2 Namespace Dictionary` __dict__`   
-**Chapter 15 File Operations in Python**   
+
+**Chapter 15 File Operations in Python**   (Jupyter Notebook for Chapter 15 available here [Chapter 15](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/15_1_file-operations.html))
+
 15.1 Introduction  
 15.2 Basics of file Operations in Python   
 15.2.1 Basics of a File (Text versus Binary File) 3 
@@ -385,20 +412,23 @@ String
 15.4.4 Pickling and Unpickling   
 15.4.5 Pickle Module and Steps in Unpickling   
 15.5 Some Useful Methods of the OS Module   
-15.6 Writing Small Scripts for Inserting Data in a File 3 
-**Chapter 16 Python Exceptions**  
+15.6 Writing Small Scripts for Inserting Data in a File 
+
+**Chapter 16 Python Exceptions**  (Jupyter Notebook for Chapter 16 available here [Chapter 16](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/16_2_Exceptions.html))
+
 16.1 Introduction   
 16.2 Basic Concepts of Exceptions in Python   
 16.2.1 Errors versus Exceptions  
 16.2.2 The raise Statement   
 16.2.3 The try-except-else Block of Code in Python   
-16.2.4 The try-except-else-finally Block with Multiple Except and Except with  No Exception Type   
+16.2.4 The try-except-else-finally Block with Multiple Except and Except with  No Exception Type 
 16.2.5 Using try-except Block to Read a File   
 16.3 User-defined Exceptions   
 16.4 Built-in Exceptions   
-16.4.1 An except Clause may Name Multiple Exceptions as a  
-Parenthesized Tuple   
-**Chapter 17 Linear List Manipulation, Stacks and Queues**   
+16.4.1 An except Clause may Name Multiple Exceptions as a Parenthesized Tuple   
+
+**Chapter 17 Linear List Manipulation, Stacks and Queues**   (Jupyter Notebook for Chapter 17 available here [Chapter 17](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/17_2_Linear_List_Manipulation_Stacks_and_Queues.html))
+
 17.1 Introduction   
 17.2 Basics of Data Structures and Lists in Python  
 17.2.1 Data Structures   
@@ -435,7 +465,9 @@ unsorted)
 17.5.8 `my_list.count(x)`  
 17.5.9 `my_list.sort(cmp=None, key=None, reverse=False)`  
 17.5.10` list.reverse()  `
-**Chapter 18 NumPy, SciPy**   
+
+**Chapter 18 NumPy, SciPy**   (Jupyter Notebook for Chapter 18 available here [Chapter 18](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/18_2_numPy_SciPy.html))
+
 18.1 Introduction   
 18.2 Basics of NumPy and SciPy   
 18.2.1 N-dimensional Array in NumPy   
@@ -456,7 +488,9 @@ unsorted)
 18.3.6 Eigenvalues and Eigenvectors   
 18.3.7 Eigen Decomposition   
 18.3.8 Singular Value Decomposition   
-**Chapter 19 SymPy**   
+
+**Chapter 19 SymPy**   (Jupyter Notebook for Chapter 19 available here [Chapter 19](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/19_1_Sympy.html))
+
 19.1 Introduction   
 19.2 Basics of SymPy 1 
 19.2.1 The` “symbols()”` Function   
@@ -493,7 +527,9 @@ unsorted)
 19.9.3 Finding limits (Lim)   
 19.9.4 Ordinary Differential Equations (ODE)  
 19.9.5 Solving ODE for an Undamped and Damped Harmonic Oscillator  
-**Chapter 20 Pandas: Open Source Data Analysis and Manipulation Tool**  
+
+**Chapter 20 Pandas: Open Source Data Analysis and Manipulation Tool**  (Jupyter Notebook for Chapter 20 available here [Chapter 20-Part 1](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/20_1_Pandas_Part-1.html))
+
 20.1 Introduction   
 20.2 Basics of pandas   
 20.2.1 Series   
