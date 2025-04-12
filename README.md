@@ -528,7 +528,8 @@ unsorted)
 19.9.4 Ordinary Differential Equations (ODE)  
 19.9.5 Solving ODE for an Undamped and Damped Harmonic Oscillator  
 
-**Chapter 20 Pandas: Open Source Data Analysis and Manipulation Tool**  (Jupyter Notebook for Chapter 20 available here [Chapter 20-Part 1](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/20_1_Pandas_Part-1.html))
+**Chapter 20 Pandas: Open Source Data Analysis and Manipulation Tool**  (Jupyter Notebook for Chapter 20 part 1 available here [Chapter 20-Part 1](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/20_1_Pandas_Part-1.html))
+(Jupyter Notebook for Chapter 20 part 2 available here [Chapter 20-Part 2](https://htmlpreview.github.io/?https://github.com/ag999git/Book-Python-Programming-Problem-Solving-Packages-and-Libraries/blob/master/book-chapters-html/20_Part2_Pandas_Drugs_review_notebook.html))
 
 20.1 Introduction   
 20.2 Basics of pandas   
